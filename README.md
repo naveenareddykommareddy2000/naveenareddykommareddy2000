@@ -12,7 +12,7 @@ Hands-on experience working on Authentication & Authorization, Sql Databases usi
 Good Knowledge and Working on Git to Resolve conflicts between branches and versions.
 Write and maintain documentation for version control processes
 Excellent Analytical & Communication skills with capability to handle new technologies.
-- 📫 How to reach me .naveenareddykommareddy2000@gmail.com
+- 📫 How to reach me .naveenakom2000@gmail.com
 
 <!---
 naveenareddykommareddy2000/naveenareddykommareddy2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
